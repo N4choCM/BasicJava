@@ -4,10 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4af96ac5-8467-414c-b535-e3cc369852cd" name="Changes" comment="Activity 4">
-      <change afterPath="$PROJECT_DIR$/src/Activity5/CarCRUD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Activity5/CarCRUDImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Activity5/Main.java" afterDir="false" />
+    <list default="true" id="4af96ac5-8467-414c-b535-e3cc369852cd" name="Changes" comment="Activity 5">
+      <change afterPath="$PROJECT_DIR$/src/Activities789/Array1D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Activities789/Array2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Activities789/ArrayList_LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Activities789/ArrayList_Loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Activities789/DivisionByZero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Activities789/Files.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Activities789/ReversedString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Activities789/Vectors.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,13 +46,13 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Activity5.Main">
-    <configuration name="Activity1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Activity1.Activity1" />
+  <component name="RunManager" selected="Application.Vectors">
+    <configuration name="ArrayList_LinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Activities789.ArrayList_LinkedList" />
       <module name="BasicJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Activity1.*" />
+          <option name="PATTERN" value="Activities789.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -55,12 +60,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Activity2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Activity2.Activity2" />
+    <configuration name="ArrayList_Loop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Activities789.ArrayList_Loop" />
       <module name="BasicJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Activity2.*" />
+          <option name="PATTERN" value="Activities789.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Activity3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Activity3.Activity3" />
+    <configuration name="DivisionByZero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Activities789.DivisionByZero" />
       <module name="BasicJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Activity3.*" />
+          <option name="PATTERN" value="Activities789.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Activity5.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Activity5.Main" />
+    <configuration name="ReversedString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Activities789.ReversedString" />
       <module name="BasicJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Activity5.*" />
+          <option name="PATTERN" value="Activities789.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Activity4.Main" />
+    <configuration name="Vectors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Activities789.Vectors" />
       <module name="BasicJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Activity4.*" />
+          <option name="PATTERN" value="Activities789.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Activity5.Main" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Activity3" />
-        <item itemvalue="Application.Activity2" />
-        <item itemvalue="Application.Activity1" />
+        <item itemvalue="Application.Vectors" />
+        <item itemvalue="Application.ReversedString" />
+        <item itemvalue="Application.DivisionByZero" />
+        <item itemvalue="Application.ArrayList_Loop" />
+        <item itemvalue="Application.ArrayList_LinkedList" />
       </list>
     </recent_temporary>
   </component>
@@ -161,7 +166,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661526024635</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Activity 5">
+      <created>1661526606607</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1661526606607</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -181,6 +193,7 @@
     <MESSAGE value="Activity 2" />
     <MESSAGE value="Activity 3" />
     <MESSAGE value="Activity 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Activity 4" />
+    <MESSAGE value="Activity 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Activity 5" />
   </component>
 </project>

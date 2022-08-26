@@ -1,6 +1,6 @@
 package Activity1;
 
-public class Main {
+public class Activity1 {
     public static void main(String[] args) {
         int iPhone = 628523682;
         Long lId = 1L;
